@@ -152,7 +152,22 @@ ul {
   }
 }
 @media screen and (max-width: 375px) {
-   #Senac {
-    margin-left: 2em;
+ #Senac {
+    margin-left: 4.4em;
   }
+  .card {
+    font-size: 0.5em;
+    width: 50%; /* Reduz o tamanho do card em 45% da largura da tela */
+    height: 65%;
+    margin: 0.5em 2em;
+  }
+  .princ{
+    width: 95vw;
+    height: auto;
+    
 }
+.content {
+  margin-bottom: 5em;
+}
+}
+
