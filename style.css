@@ -140,9 +140,9 @@ ul {
     
     .card {
       font-size: 0.5em;
-      width: 45%; /* Reduz o tamanho do card em 45% da largura da tela */
-      height: auto; /* Define a altura automática para ajustar ao conteúdo */
-      margin: 1em 0.5em; /* Define as margens superior e inferior para 1em e margens laterais para 0.5em */
+      width: 45%;
+      height: auto; 
+      margin: 1em 0.5em;
       margin-left: 5em;
     }
     .main{
@@ -160,7 +160,7 @@ ul {
   }
   .card {
     font-size: 0.5em;
-    width: 50%; /* Reduz o tamanho do card em 45% da largura da tela */
+    width: 50%; 
     height: 65%;
     margin: 0.5em 2em;
   }
