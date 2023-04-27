@@ -142,17 +142,18 @@ ul {
       font-size: 0.5em;
       width: 45%; /* Reduz o tamanho do card em 45% da largura da tela */
       height: auto; /* Define a altura automática para ajustar ao conteúdo */
-      margin: 1em 0.5em; /* Define as margens superior e inferior para 1em e margens laterais para 0.5em */
+      margin: 2em 0.5em; /* Define as margens superior e inferior para 1em e margens laterais para 0.5em */
       margin-left: 5em;
+        
     
     }
     .main{
         font-size: 0.45em;
     }
-/*     .content {
+    .content {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
-      grid-gap: 1em; */
+      grid-gap: 1em;
   }
 }
 @media screen and (max-width: 375px) {
