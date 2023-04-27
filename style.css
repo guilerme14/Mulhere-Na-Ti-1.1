@@ -110,19 +110,19 @@ ul {
     }
   }
   
-  /* ajustar o tamanho da fonte do logo */
-  @media only screen and (max-width: 320px) {
+  
+/*   @media only screen and (max-width: 320px) {
     .logo {
       font-size: 1.2em;
     }
-  }
+  } */
   
-  /* ajustar o tamanho das caixas de cartão */
-  @media only screen and (max-width: 576px) {
+ 
+/*   @media only screen and (max-width: 576px) {
     .card {
       width: 100%;
       height: 10rem;
-      overflow: scroll;
+      overflow: scroll; */
     }
   }
 /*   @media only screen and (max-width: 767px) {
