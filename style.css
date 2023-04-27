@@ -95,6 +95,9 @@ ul {
       width: 95vw;
       height: auto;
     }
+      #Senac {
+    margin-left: 1.2em;
+}
   }
   
   /* ajustar a altura dos links na lista */
@@ -169,7 +172,5 @@ ul {
 .content {
   margin-bottom: 5em;
 }
-    #Senac {
-    margin-left: 1.2em;
-}
+    
 
