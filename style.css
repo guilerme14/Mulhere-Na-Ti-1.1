@@ -100,14 +100,14 @@ ul {
 }
   }
   
-/*   @media only screen and (max-width: 480px) {
+  @media only screen and (max-width: 480px) {
     li {
       margin-right: 30px;
     }
     #senac{
       margin-left: 25em
     }
-  } */
+  }
   
   
 /*   @media only screen and (max-width: 320px) {
